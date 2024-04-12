@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ScientificResearch/Tennis/TableTennisData"
+		},
+		{
+			"path": "../../../../ScientificResearch/U-net"
+		},
+		{
+			"path": "../../../../PyQtUI/Projects/Quantum key serial port PC"
+		},
+		{
+			"path": "../../../2024毫米波大创/TI IWR1642雷达串口数据解析（Traffic M ,People 可借鉴）"
+		},
+		{
+			"path": "../../../2024毫米波大创/IWR1642呼吸心跳MATLAB代码和数据集"
+		},
+		{
+			"path": "E:/UAVData"
+		},
+		{
+			"path": "../../../2024正大杯/数据正式分析"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../2024毫米波大创/开发程序/V4.0 vital signal detection (GUI 多线程)"
+		}
+	],
+	"settings": {}
+}
